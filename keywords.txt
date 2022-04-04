@@ -1,0 +1,11 @@
+ASCIItoSegments	KEYWORD1
+Convert7Segment	KEYWORD2
+Convert14Segment	KEYWORD2
+Convert16Segment	KEYWORD2
+DigitASCIIoffset	LITERAL1
+DigitASCIIlimit	LITERAL1
+LowercaseLetterCount	LITERAL1
+ASCIItoSegments_DigitCount	LITERAL1
+LowercaseLetterSkipCount	LITERAL1
+AvailableASCIIcharacters	LITERAL1
+LowercaseLetterOffset	LITERAL1
